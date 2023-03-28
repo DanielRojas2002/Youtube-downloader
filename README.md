@@ -85,5 +85,37 @@ MENU PRINCIPAL
 ![image](https://user-images.githubusercontent.com/60913160/228118855-660b10ed-afe2-4e2f-bb49-a98e52d1258e.png)
 
 
+-------------------------------------------------------------------------------------------------------------------
+
+4- (POR ARCHIVO .TXT VIDEO)
+
+![image](https://user-images.githubusercontent.com/60913160/228118067-d2a5c9b0-2e6d-464d-b4f4-9ffd44ca44c3.png)
+
+
+![image](https://user-images.githubusercontent.com/60913160/228119325-dafd92f5-b5df-43d1-96f7-7828c33243cf.png)
+
+
+
+
+-----.TXT-----------
+
+![image](https://user-images.githubusercontent.com/60913160/228119261-921623a5-a9b6-459c-8ed7-6ea7f3934f5d.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/60913160/228118219-ae255a66-e457-45b9-b080-03959f6b4c94.png)
+
+
+-----RESULTADO-----
+
+![image](https://user-images.githubusercontent.com/60913160/228118496-6ce1d8d4-b9ae-425b-be02-780187e3a606.png)
+
+
+![image](https://user-images.githubusercontent.com/60913160/228118537-9d98312f-618b-485e-957c-d92714683d14.png)
+
+-------------------------------------------------------------------------------------------------------------------
+
+
 
 
