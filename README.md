@@ -1,6 +1,8 @@
 # Youtube-downloader
 Descarga musica o videos de YOUTUBE mientras le pases la ruta
 
+DESARROLLADO POR : DANIEL EDUARDO ROJAS GARZA (Licenciado en Tecnologias de Informacion"
+
 APLICACION DE ESCRITORIO DESARROLADA EN PYQT5 (PYTHON)
 
 ESTA APLICACION TE DESCARGA MUSICA O VIDEOS
