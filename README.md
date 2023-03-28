@@ -104,15 +104,16 @@ MENU PRINCIPAL
 
 
 
-![image](https://user-images.githubusercontent.com/60913160/228118219-ae255a66-e457-45b9-b080-03959f6b4c94.png)
-
-
 -----RESULTADO-----
 
-![image](https://user-images.githubusercontent.com/60913160/228118496-6ce1d8d4-b9ae-425b-be02-780187e3a606.png)
+![image](https://user-images.githubusercontent.com/60913160/228119522-f440fdfa-b827-46dc-aa24-39dd99067268.png)
 
 
-![image](https://user-images.githubusercontent.com/60913160/228118537-9d98312f-618b-485e-957c-d92714683d14.png)
+
+
+
+![image](https://user-images.githubusercontent.com/60913160/228119587-b63f74f6-2bce-43ab-b1fd-e8a4da3b3bd2.png)
+
 
 -------------------------------------------------------------------------------------------------------------------
 
