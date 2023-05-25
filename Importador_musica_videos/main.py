@@ -191,7 +191,7 @@ class Ventana_muchos_audio(QMainWindow):
                         linealimpia = re.sub("\ n","",linea)
                         youlink=pytube.YouTube(linealimpia)
                         titulo= youlink.title + ".mp3"
-                        caracteres = "'!?()/|,[]~"
+                        caracteres = "'!?()/|,[]~éíó-¿Éú"
                     
                         
                         for x in range(len(caracteres)):
@@ -270,7 +270,7 @@ class Ventana_muchos_video(QMainWindow):
                         linealimpia = re.sub("\ n","",linea)
                         youlink=pytube.YouTube(linealimpia)
                         titulo= youlink.title + ".mp4"
-                        caracteres = "'!?()/|,[]~"
+                        caracteres = "'!?()/|,[]~éíó-¿Éú"
                     
                         
                         for x in range(len(caracteres)):
